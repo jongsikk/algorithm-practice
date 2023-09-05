@@ -28,7 +28,7 @@ hs_err_pid*
 replay_pid*
 
 ### VisualStudioCode ###
-.vscode/*
+/.vscode/*
 !.vscode/settings.json
 !.vscode/tasks.json
 !.vscode/launch.json
@@ -47,3 +47,4 @@ replay_pid*
 .ionide
 
 # End of https://www.toptal.com/developers/gitignore/api/visualstudiocode,java
+.vscode/settings.json
